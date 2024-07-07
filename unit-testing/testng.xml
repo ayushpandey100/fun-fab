@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" >
+
+    <test verbose="2" preserve-order="true" name="D:/fun-fab/unit-testing" >
+
+
+        <classes >
+            <class name="com.epam.jUnitTests.Elephant">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.jUnitTests.Lion">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.jUnitTests.Tiger">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.testNGTests.Jupiter">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.testNGTests.Pluto">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.testNGTests.Saturn">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.unitTests.Apple">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.unitTests.Banana">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+            <class name="com.epam.unitTests.Orange">
+                <methods>
+                    <include name="myMethod01"/>
+                    <include name="myMethod02"/>
+                    <include name="myMethod03"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

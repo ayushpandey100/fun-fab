@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="1st Suite covering All ">
+
+    <test verbose="2" preserve-order="true" name="jUnit test">
+
+        <classes>
+
+<!--            <class name="com.epam.testNGTests.Jupiter"></class>-->
+            <class name="com.epam.unitTests.Orange">
+                <methods>
+                    <include name="myMethod01"></include>
+                </methods>
+            </class>
+            <class name="com.epam.testNGTests.Saturn">
+
+<!--                <methods>-->
+
+<!--                    <include name="myMethod01"/>-->
+<!--                    <exclude name="myMethod02"/>-->
+<!--                    <exclude name="myMethod03"/>-->
+<!--                </methods>-->
+            </class>
+<!--            <class name="com.epam.testNGTests.Jupiter">-->
+<!--                <methods>-->
+<!--                    <include name="myMethod01"/>-->
+<!--                    <exclude name="myMethod02"/>-->
+<!--                    <exclude name="myMethod03"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--            <class name="com.epam.unitTests.Apple">-->
+<!--                <methods>-->
+<!--                    <include name="myMethod01"/>-->
+<!--                    <exclude name="myMethod02"/>-->
+<!--                    <exclude name="myMethod03"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+<!--    <test verbose="2" preserve-order="true" name="testNGTest">-->
+
+
+<!--        <classes>-->
+<!--            <class name="com.epam.testNGTests.Jupiter">-->
+<!--                <methods>-->
+<!--                    <include name="myMethod01"/>-->
+<!--                    <exclude name="myMethod02"/>-->
+<!--                    <exclude name="myMethod03"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test verbose="2" preserve-order="true" name="unitTest">-->
+
+
+<!--        <classes>-->
+<!--            <class name="com.epam.unitTests.Apple">-->
+<!--                <methods>-->
+<!--                    <include name="myMethod01"/>-->
+<!--                    <exclude name="myMethod02"/>-->
+<!--                    <exclude name="myMethod03"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

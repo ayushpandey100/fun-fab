@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="196ff782-59d6-40c5-b83f-56c4835a6e26" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/main/java/com/epam/pojo/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/main/java/com/epam/pojo/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/main/java/com/epam/pojo/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/main/java/com/epam/pojo/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/goRestTests/DeleteTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/goRestTests/GetTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/goRestTests/PostTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/goRestTests/PutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/jsonPlaceHolderTests/DeleteTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/jsonPlaceHolderTests/GetTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/jsonPlaceHolderTests/PatchTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/jsonPlaceHolderTests/PostsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-testing/src/test/java/com/epam/jsonPlaceHolderTests/PutTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/main/java/com/epam/pages/ConfirmUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/main/java/com/epam/pages/CreateAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/main/java/com/epam/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/main/java/com/epam/pages/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/test/java/com/epam/bddTests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/test/java/com/epam/pojo/NewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/test/java/com/epam/runner/CucumberTestNGRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/test/java/com/epam/runner/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/test/java/com/epam/stepDefinitions/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bdd-testing/src/test/resources/features/placeOrder.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/collectionFramework/map/Plum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/collectionFramework/set/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/builderDP/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/builderDP/BuilderPatterndemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/factoryDP/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/factoryDP/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/factoryDP/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/factoryDP/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/factoryDP/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/factoryDP/VehicleManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/singletonDP/MySQLConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/designPattern/singletonDP/SingletonJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/ImmuatableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/MyInterf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/StudentClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/javaBasic/Wednesday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/string/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/sunday/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/sunday/MayFifth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/sunday/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/tuesday/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core-java/src/main/java/com/epam/tuesday/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/src/main/java/com/epam/pages/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/src/test/java/com/epam/runner/JUnitRunnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/src/test/java/com/epam/runner/TestNGRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/src/test/java/com/epam/stepDefinitions/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/src/test/resources/cucumber.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report-testing/src/test/resources/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/certificate/MicrosoftTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/constants/DriverConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/constants/URLConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/ActionTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/AlertTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/Await.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/CrossBrowserTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/DropdownTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/IFrameTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/JavascriptExecutorTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/ScreenshotTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/uiTests/SeleGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui-testing/src/test/java/com/epam/utility/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/custom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/jUnitTests/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/jUnitTests/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/jUnitTests/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/runner/FactoryMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/runner/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/testNGTests/Jupiter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/testNGTests/Pluto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/testNGTests/Saturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/unitTests/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/unitTests/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing/src/test/java/com/epam/unitTests/Orange.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bLHgzZaWYPgAMRJGIx7QdnkFLB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/fun-fab&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Orange">
+    <configuration name="Banana" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.collectionFramework.set.Banana" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.collectionFramework.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Orange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.string.Orange" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.epam.collectionFramework.map.Plum" />
+      <module name="core-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.collectionFramework.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicrosoftTest.openURLTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ui-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.epam.certificate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.epam.certificate" />
+      <option name="MAIN_CLASS_NAME" value="com.epam.certificate.MicrosoftTest" />
+      <option name="METHOD_NAME" value="openURLTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Orange" />
+        <item itemvalue="TestNG.MicrosoftTest.openURLTest" />
+        <item itemvalue="Application.Plum" />
+        <item itemvalue="Application.Banana" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="196ff782-59d6-40c5-b83f-56c4835a6e26" name="Changes" comment="" />
+      <created>1705987555665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705987555665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/core-java/src/main/java/com/epam/collectionFramework/map/Plum.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
